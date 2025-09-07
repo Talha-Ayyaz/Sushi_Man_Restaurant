@@ -1,16 +1,5 @@
-# sushi_man
+# Sushi Man
 
-A new Flutter project.
+## Overview
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Sushi Man Restaurant is a Flutter application designed to provide an engaging digital menu and food ordering experience. The app showcases a variety of sushi dishes with images, descriptions, and prices, allowing users to explore the menu and place orders seamlessly. With its clean UI, responsive design, and smooth navigation, it demonstrates how Flutter can be used to build modern and user-friendly restaurant applications.
